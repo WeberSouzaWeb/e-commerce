@@ -12,7 +12,7 @@
     npm install cors
                       
 ##admin
-![https://vitejs.dev/logo-with-shadow.png](https://vitejs.dev/)
+[![image](https://vitejs.dev/logo.svg)](https://vitejs.dev/)
     npm create vite@latest .
     npm install
     npm run dev
