@@ -15,7 +15,7 @@ Para rodar a aplicação, você deve ter o Vite [create-vite](https://github.com
 ![image](https://github.com/user-attachments/assets/cd4b4157-9b25-440f-a0b6-fc16c46f80a3)
 
 
-## backend <a href="https://www.mongodb.com/"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" width="30"></img></a>
+## backend <a href="https://www.mongodb.com/"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" width="100"></img></a>
 
     npm install express
     npm install jsonwebtoken
